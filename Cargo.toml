@@ -1,0 +1,7 @@
+[package]
+name = "room-lifecycle"
+version = "0.1.0"
+edition = "2021"
+description = "PLATO room lifecycle: rooms that are born, learn, mature, and dissolve when perfectly adapted"
+
+[dependencies]
